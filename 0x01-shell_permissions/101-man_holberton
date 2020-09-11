@@ -1,15 +1,21 @@
 .TH man 2 "04 May 2015" "0.32" "Holberton man page"
 .SH NAME
 .BR HOLBERTON SCHOOL
+
 .SH SYNOPSIS
 HOLBERTON [USERNAME]
+
 .SH DESCRIPTION
 .BR Holberton School is a project-based alternative to college for the next generation of software engineers. It offers a two-year higher-education program to become a full-stack software engineer1.
+
 .SH OPTIONS
 .BR The nuseradd does not take any options. However, you can supply username.
+
 .SH SEE ALSO
 .BR Specialize in what drives you(2)The Holberton Way(2)Learn the soft skills that matter(2).
+
 .SH BUGS
 .BR No known bugs.
+
 .SH AUTHOR
 BR. BETTY HOLBERTON
